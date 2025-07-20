@@ -1,0 +1,46 @@
+* {
+    font-family: "Century Gothic", sans-serif;
+}
+
+#container {
+    width: 500px;
+    height: 500px;
+    /* margin: 0 auto; */
+    text-align: center;
+    position: relative;
+    justify-self: center;
+    align-content: center;
+} 
+
+h1 {
+    font-size: 52px;
+    position: relative;
+    top: -10px;
+}
+
+h2 {
+    font-size: 30px;
+    position: relative;
+    top: -10px;
+}
+
+button {
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    margin: 30px;
+}
+
+#results {
+    font-size: 25px;
+    font-weight: bold;
+    position: relative;
+    top: 70px;
+    height: 100px;
+    text-align: center;
+}
+
+#restart {
+    position: relative;
+    top: 200px;
+}
